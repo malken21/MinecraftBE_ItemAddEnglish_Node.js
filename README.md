@@ -1,1 +1,1 @@
-# MinecraftBE_item_text_Node.js
+Config.jsonで指定した言語ファイルにあるアイテム名とブロック名を ほかの言語に追加する
