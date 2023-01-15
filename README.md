@@ -9,4 +9,4 @@ index.jsがある階層にlangディレクトリを作成
 <br>
 start.bat を実行
 <br>
-resultディレクトリが生成され その中に編集後のlangファイルが含まれている
+resultディレクトリが生成され その中に編集後のlangファイルが生成されている
